@@ -1,24 +1,8 @@
-# agrotehc
+# CFR - Agrotehc
 
-## Project setup
-```
-npm install
-```
+Front-end feito com vue-js para consumo de API do sistema de controle de finanças rurais
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+by Varlei De Cesare
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+WhatsApp: https://wa.me/5554991091980
+Instagram: https://www.instagram.com/varlei_cesare/
