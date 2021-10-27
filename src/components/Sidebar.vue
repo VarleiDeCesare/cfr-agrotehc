@@ -8,23 +8,11 @@
 						to="/lavouras" class="hvr-float">
 						<i class="fas fa-hat-cowboy"></i> Lavouras</router-link>
 					<router-link
-						to="/products" class="hvr-float">
-						<i class="fas fa-list"></i> Produtos
-					</router-link>
-					<router-link
 						to="/newproduct" class="hvr-float">
 						<i class="fas fa-folder-plus"></i> Novo Produto
 					</router-link>
 					<router-link
-						to="/fertilizers" class="hvr-float">
-						<i class="fas fa-seedling"></i> Adubos
-					</router-link>
-					<router-link
-						to="/newfertilizer" class="hvr-float">
-						<i class="fas fa-plus fa-xs"></i> <i class="fas fa-seedling"></i> Novo Adubo
-					</router-link>
-					<router-link
-						to="/login" class="hvr-float">
+						to="/user/1" class="hvr-float">
 						<i class="fas fa-user"></i> Editar Perfil
 					</router-link><router-link
 						to="/login" class="hvr-float">

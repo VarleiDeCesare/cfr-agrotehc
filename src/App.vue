@@ -9,7 +9,8 @@
 
 #app{
 	position: relative;
-	padding-bottom: 510px;
+	padding-bottom: 360px;
+	min-height: 100vh;
 }
 
 body{
@@ -20,9 +21,11 @@ body{
 :root{
 	--verde: #256b4e;
 }
+
 a{
 	text-decoration: none;
 }
+
 a:hover{
 	text-decoration: underline;
 	text-decoration-color: var(--verde);
@@ -30,6 +33,13 @@ a:hover{
 
 h2, h5,h6{
 	margin: 0!important;
+}
+.btn{
+	background-color: var(--verde) !important;
+}
+
+.linha-titulo{
+	padding-top: 35px;
 }
 
 </style>
